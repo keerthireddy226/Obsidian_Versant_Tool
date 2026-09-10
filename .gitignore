@@ -5,5 +5,9 @@
 !Calling Application/
 !Calling Application/**
 
+# And the Versant Prep Tool docs folder
+!Versant Prep Tool/
+!Versant Prep Tool/**
+
 # And git config itself
 !.gitignore
