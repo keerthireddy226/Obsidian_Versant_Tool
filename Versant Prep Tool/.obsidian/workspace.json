@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "a428d53c1ec72c14",
+    "type": "split",
+    "children": [
+      {
+        "id": "683d074df3e1390a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abefa0187910cb16",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7340977c4f2d0933",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a45ee16e98bfe9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75ce3c87e8039b55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7599a8ca38e77339",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3126aa7fb57ee5ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "60cbc58cd7021b39",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce1eb200dfd37e0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf3fe4c02a1ebd79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "What To Take — Design Lessons.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "38acd235d3d5d937",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "What To Take — Design Lessons.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c18b0f453cb3b97a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bfa903854a636fc8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "aa08335467eb7a1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "What To Take — Design Lessons.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "abefa0187910cb16",
+  "lastOpenFiles": [
+    "FRD — Versant Prep Tool.md.tmp.8048.b4175aeb688a",
+    "FRD — Versant Prep Tool.md.tmp.8048.19f840ce9617",
+    "FRD — Versant Prep Tool.md.tmp.8048.ead2c8fac4d7",
+    "FRD — Versant Prep Tool.md.tmp.8048.c051f3aa7dd6",
+    "FRD — Versant Prep Tool.md.tmp.8048.11a4bc365a9a",
+    "FRD — Versant Prep Tool.md.tmp.8048.dd21f09f7971",
+    "FRD — Versant Prep Tool.md.tmp.8048.16cc250a2e28",
+    "FRD — Versant Prep Tool.md.tmp.8048.73210a8a0e4f",
+    "FRD — Versant Prep Tool.md.tmp.8048.5320895f6215",
+    "FRD — Versant Prep Tool.md.tmp.8048.ff835a6c3813",
+    "BRD — Versant Prep Tool.md.tmp.8048.576122653411",
+    "Versant Tool — Phases by Module.md",
+    "Login, Roles, Permissions & Onboarding.md",
+    "Complete Guide — English & Versant Platforms.md",
+    "Untitled.md",
+    "BRD — Versant Prep Tool.md",
+    "AI Speaking Apps — Landscape.md",
+    "00 - Index.md",
+    "What To Take — Design Lessons.md",
+    "Versant Test — Official Task Structure.md",
+    "Versant Prep Sites — Walkthrough.md",
+    "TalkPal — UX Engagement Analysis.md",
+    "Market Gap & Positioning.md",
+    "FRD — Versant Prep Tool.md",
+    "Gamification & Dual-Market Expansion — Proposed Direction.md",
+    "screenshots/talkpal/27-notifications.png",
+    "screenshots/talkpal/26-photomode.png",
+    "screenshots/talkpal/25-debates.png",
+    "screenshots/talkpal/24-characters.png",
+    "screenshots/talkpal/23-roleplays.png",
+    "screenshots/talkpal/22-callmode.png",
+    "screenshots/talkpal/21-dialoguemode.png",
+    "screenshots/talkpal/20-sentencemode-advanced-feedback.png",
+    "screenshots/talkpal/19-sentencemode-pronunciation-score.png",
+    "screenshots/talkpal/18-sentencemode-incorrect.png"
+  ]
+}
